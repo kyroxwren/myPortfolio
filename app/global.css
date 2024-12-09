@@ -1,5 +1,12 @@
 @import 'tailwindcss';
 
+body {
+  background: linear-gradient(to bottom, #4a0080, black);
+  min-height: 100vh;
+  margin: 0;
+  color: white; /* Optional: Adjust text color for readability */
+}
+
 ::selection {
   background-color: #47a3f3;
   color: #fefefe;

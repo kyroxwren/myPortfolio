@@ -7,11 +7,15 @@ export default function Page() {
         Lebogang Tyosho
       </h1>
       <p className="mb-4">
-        {`I'm a Vim enthusiast and tab advocate, finding unmatched efficiency in
-        Vim's keystroke commands and tabs' flexibility for personal viewing
-        preferences. This extends to my support for static typing, where its
-        early error detection ensures cleaner code, and my preference for dark
-        mode, which eases long coding sessions by reducing eye strain.`}
+        {`I am Lebogang Tyosho, a passionate Junior Developer and Data Analyst 
+        with expertise in programming languages like Java, C#, JavaScript, Python, SQL, 
+        and frameworks such as React, Django, and .NET. I have contributed to diverse 
+        projects, including SaaS products, web applications, and data-driven systems, 
+        focusing on optimizing functionality, enhancing user experience, and improving 
+        operational efficiency. Currently pursuing a Diploma in Information Technology 
+        at CTU Training Solutions, I am committed to continuous learning, holding certifications 
+        in Microsoft Azure, Python, and Web Development. Beyond coding, I enjoy exploring new 
+        technologies, trading, and fitness. Let’s connect and create impactful solutions together!`}
       </p>
       <div className="my-8">
         <BlogPosts />
