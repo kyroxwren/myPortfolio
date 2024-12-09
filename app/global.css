@@ -1,7 +1,8 @@
 @import 'tailwindcss';
 
 body {
-  background: linear-gradient(to bottom, black , #8a2ce2);
+  background: linear-gradient(to top, black , #8a2ce2);
+  margin: 0;
 }
 
 ::selection {
