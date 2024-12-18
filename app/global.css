@@ -26,13 +26,33 @@
   }
   html {
     color-scheme: dark;
-    background: linear-gradient(to bottom, black , #43156d);
+    background: linear-gradient(to bottom, black , #0f051a);
+    font-family: sans-serif, poppins;
+    overflow: auto;
+    overflow-x: hidden;
+    overflow-y: hidden;
   }
 }
 
+.home-content{ 
+
+  h1 {
+  font-size: 45px;
+  font-weight: 700
+  }
+
+  h3 { 
+  font-size: 25px;
+  font-weight: 700
+  } 
+}
+
 html {
-  background: linear-gradient(to bottom, black , #8a2ce2);
+  background: linear-gradient(to bottom, black , #0f051a);
+  font-family: sans-serif;
   min-width: 360px;
+  overflow: auto;
+  overflow-x: hidden;
 }
 
 .prose .anchor {
